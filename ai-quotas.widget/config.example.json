@@ -1,0 +1,15 @@
+{
+  "proxy": "",
+  "deepseekApiKey": "",
+  "opencodeGoApiKey": "",
+  "antigravityAccounts": [
+    {
+      "name": "Antigravity 1",
+      "homeDir": "~/.ag-quota-profiles/acc1"
+    },
+    {
+      "name": "Antigravity 2",
+      "homeDir": "~/.ag-quota-profiles/acc2"
+    }
+  ]
+}
